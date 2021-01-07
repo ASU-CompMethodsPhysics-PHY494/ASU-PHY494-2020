@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               'Computational Methods in Physics'
-tagline:             'ASU Physics PHY 494'
+tagline:             'ASU Physics PHY 494 (Spring 2020)'
 description:         > 
                      A <a
                      href="https://becksteinlab.physics.asu.edu/learning/76/phy494-computational-physics">class
@@ -13,7 +13,7 @@ description:         >
                      students how to use the computer as a tool to
                      solve problems in physics
 url:                 https://asu-compmethodsphysics-phy494.github.io
-baseurl:             /ASU-PHY494
+baseurl:             /ASU-PHY494-2020
 paginate:            1
 
 # About/contact
@@ -47,20 +47,20 @@ course:
 resources:
  name:               ASU-CompMethodsPhysics-PHY494/PHY494-resources
  shortname:          PHY494-resources
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources
- fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2020
+ fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2020/blob/master
 
 assignments:
  name:               ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton
  shortname:          PHY494-assignments
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton
- fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton/blob/master
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton-2020
+ fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton-2020/blob/master
  
 
 org:
  name:               ASU-CompMethodsPhysics-PHY494
  shortname:          GitHub site
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494-2020/
 
 wiki:
  name:               ASU Comp Phys PHY494 Wiki
@@ -69,8 +69,8 @@ wiki:
 
 nbviewer:
    show:             http://nbviewer.jupyter.org/github
-   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
-   slides:           http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2020/blob/master
+   slides:           http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2020/blob/master
 
 
 #--------------------------------------------------------------------------------
